@@ -2,25 +2,21 @@ var data = {
     "baggers": [
         {
             "name": "Eric Lefevre-Ardant",
-            "bio": "Consultant Java - Freelance",
+            "bio": "Technical Consultant with Palo IT",
             "picture": "img/baggers/photo_eric.jpg",
             "websites": [
                 {
-                    "title": "Blog personnel",
+                    "title": "Personal Blog",
                     "href": "http://ericlefevre.net/"
-                },
-                {
-                    "title": "Podcast",
-                    "href": "http://unetassedethepodcast.com/"
                 }
             ],
             "twitter": "elefevre",
             "contact": "contact@ericlefevre.net",
             "mail": "contact@ericlefevre.net",
-            "location": "Paris",
+            "location": "Geylang",
             "sessions": [
                 {
-                    "title": "Boucles Etranges : Etranges Boucles - avec Guillaume Tardif",
+                    "title": "Strange Loops, Strange Code",
                     "summary": "Une promenade décousue dans les limites du code source Java, à la manière de Douglas Hofstadter. Nous parlons de code, d'apparences trompeuses, d'art et de la vie."
                 },
                 {
@@ -40,7 +36,7 @@ var data = {
     "cities": [
         {
             "name": "Geylang",
-            "ville_img": "",
+            "ville_img": "img/villes/BBL.jpg",
             "lat": 1.319718,
             "lng": 103.891354
         }
