@@ -158,7 +158,8 @@
 
                     <div class="row" id="{{name}}">
                         <div class="small-12 large-12 columns">
-                            <a href="#" class="ville-img"><img width="700" height="280" src="{{ville_img}}"></a>
+                            {{#ville_img}}<a href="#" class="ville-img"><img width="700" height="280" src="{{ville_img}}"></a>{{/ville_img}}
+                            {{name}}
                             <a href="#map"><i class="icon-globe"></i> Revenir à la carte</a>
                             <hr>
                             {{message}}
