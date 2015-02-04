@@ -17,11 +17,11 @@ var data = {
             "sessions": [
                 {
                     "title": "Strange Loops, Strange Code",
-                    "summary": "Une promenade décousue dans les limites du code source Java, à la manière de Douglas Hofstadter. Nous parlons de code, d'apparences trompeuses, d'art et de la vie."
+                    "summary": "A stroll to the limits of Java source code, in the style of Douglas Hofstadter. We will discuss code, deceiving apparences, art and life."
                 },
                 {
                     "title": "Extremist Programming",
-                    "summary": "Bien sûr, notre métier est sérieux ; le Software Craftmanship n'est-il pas avant tout le professionnalisme ? Bien sûr, le progrès vient d'articles scientifiques ardus et de nouveaux logiciels complexes. Mais vous ne rêvez pas parfois de repousser le cadre professionnel habituel ? D'aller plus loin et d'explorer ? De vous amuser avec du code jusqu'à ce que ça devienne n'importe quoi ? Dans cette session nous vous présenterons des expériences ésotériques, des jeux bizarres et des joyeux délires qui font réfléchir. Réfléchir ? D'habitude on n'a jamais le temps !"
+                    "summary": "Yes, our job is a serious one. Software Craftmanship is, in the end, all about being professionals. Yes, progress does come from research scientific and from new and complex software and algorithms. Still, don't you ever dream of pushing the limits of your usual work environment? Explore? Go further? Have fun with code, to the point of it becoming nonsensical? In this session, we will introduce esoteric experiments, strange games and crazy ideas that will make you think. Think? Do we still have time for that?!"
                 }
             ],
             "tags": [
