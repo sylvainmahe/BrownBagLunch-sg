@@ -50,6 +50,77 @@ var data = {
             ]
         },
         {
+            "name": "Cécilia Bossard",
+            "bio": "Développeuse, Scrum Master, Coach et formatrice agile. Membre de l'association Agile Nantes et du groupe Women In Technology sur Nantes",
+            "picture": "https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/091/25a/1329194.jpg",
+            "websites": [
+                {
+                    "title": "Site web",
+                    "href": "http://javagile.wordpress.com"
+                }
+            ],
+            "twitter": "ceciliaBossard",
+            "contact": "cecilia.bossard@gmail.com",
+            "mail": "cecilia.bossard@gmail.com",
+            "location": "Nantes",
+            "sessions": [
+                {
+                    "title": "Et la diversité dans tout ça ?",
+                    "summary": "On entend beaucoup parler en ce moment du besoin d’avoir plus de femmes dans les métiers du numérique. Mais la diversité ne s’arrête pas là. Qu'est ce qu’on entend par diversité ? Qu'est ce que ça peut apporter à mon équipe, mon entreprise ? Quelles sont les bonnes pratiques ? Je tenterai de répondre à ces questions lors de cette présentation qui ne se veut pas moralisatrice, mais souhaite juste proposer des pistes de réflexions sur ce débat."
+                },
+                {
+                    "title": "Introduction à l'agilité",
+                    "summary": "L'agilité est un mot très à la mode en ce moment. Mais qu'est ce qu'on entend exactement par là ?"
+                },
+                {
+                    "title": "Serious game agile",
+                    "summary": "De petits ateliers de 'team-building' ou de différents concepts agiles. "
+                }
+            ],
+            "tags": [
+                "Agilité",
+                "Diversité",
+                "Serious game"
+            ],
+            "cities": ["Nantes"]
+        },
+        {
+            "name": "Eric Olivier Castro",
+            "bio": "Consultant au sein d’un cabinet de courtage d’Assurances spécialisé dans l’Entreprise, je mise sur une approche constructive des risques et menaces qui existent pour assurer le capital humain.",
+            "picture": "https://media.licdn.com/mpr/mpr/shrink_200_200/p/8/005/092/3c0/38a469f.jpg",
+            "websites": [
+                {
+                    "title": "LinkedIn",
+                    "href": "https://fr.linkedin.com/pub/eric-olivier/a5/2b0/661/"
+                }
+            ],
+            "contact": "e.castro@gsam34.fr",
+            "mail": "e.castro@gsam34.fr",
+            "location": "Montpellier, Toulouse, Bordeaux",
+            "sessions": [
+                {
+                    "title": "Assurances: Qui est concerné dans l’Entreprise et comment protéger ses ressources ?",
+                    "summary": "Les RH doivent définir les spécificités de leurs ressources. Les salariés ; les Hommes clés ; les Dirigeants (surtout dans le cadre d’une TPE) …Et leur famille par extension. Suivant les cas, les besoins sont identiques aux autres ou alors très spécifiques. Quelles solutions s’offrent aux RH ? Lesquelles sont prioritaires ? …"
+                },
+                {
+                    "title": "Comment renforcer l’intuitu personae de manière collective ?",
+                    "summary": "La fonction des RH va au-delà du recrutement et de la gestion « pure ». Les RH peuvent facilement proposer de la valeur ajouter afin d’accompagner TOUT le monde tout en conservant une écoute personnalisée. S’informer sur les différents systèmes qui existent, comprendre l’intérêt de proposer ou non ces opportunités et penser à travailler dans la durée."
+                },
+                {
+                    "title": "Comment assurer la sécurité juridique de tous ou quelles sont les conditions pour rendre valables ces contrats ?",
+                    "summary": "Signer un contrat est simple. Seulement qui dit avantages dit contreparties. Les avantages fiscaux et sociaux à destination de l’Entreprise et des Ressources Humaines imposent le respect d’un formalisme juridique et de règles précises. Où et comment rechercher l’information ? …"
+                }
+            ],
+            "tags": [
+                "Assurances",
+                "Droit",
+                "RH"
+            ],
+            "cities": [
+                "Montpellier","Bordeaux","Toulouse"
+            ]
+        },
+        {
             "name": "Arlette Gelabert",
             "bio": "Formatrice à Form’En Scène, je mise sur le capital humain pour optimiser le potentiel professionnel de chacun, parce que l’humain est le premier vecteur de l’image de marque de votre entreprise et le moteur indispensable à son bon fonctionnement. Je fonde ma pédagogie sur 30 ans de pratique théâtrale comme comédienne et animatrice (en compagnies privées et ateliers théâtre) et 20 ans d’expérience en entreprise au sein de services administratifs et commerciaux.",
             "picture": "https://media.licdn.com/mpr/mpr/shrink_200_200/p/2/005/030/2ca/04f6953.jpg",
@@ -345,7 +416,7 @@ var data = {
                 },
                 {
                     "title": "L’expression des émotions en entreprises",
-                    "summary": "Ou comment réaliser que « Gérer ses émotions » n’est ni souhaitable, ni faisable"
+                    "summary": "'Gérer ses émotions' revient-il à les laisser se vivre ? Et de quelle manière ?"
                 },
                 {
                     "title": "Les relations interpersonnelles en ESN (SSII)",
@@ -471,6 +542,30 @@ var data = {
             "ville_img": "http://www.brownbaglunch.fr/img/villes/BBL_Lausanne.jpg",
             "lat": 46.519962,
             "lng": 6.633597
+        },
+        {
+            "name": "Nantes",
+            "ville_img": "http://www.brownbaglunch.fr/img/villes/BBL_Nantes.jpg",
+            "lat": 47.219102,
+            "lng": -1.551132
+        },
+        {
+            "name": "Montpellier",
+            "ville_img": "http://www.brownbaglunch.fr/img/villes/BBL_Montpellier.jpg",
+            "lat": 43.610769,
+            "lng": 3.876716
+        },
+        {
+            "name": "Bordeaux",
+            "ville_img": "http://www.brownbaglunch.fr/img/villes/BBL_Bordeaux.jpg",
+            "lat": 44.837789,
+            "lng": -0.57918
+        },
+        {
+            "name": "Toulouse",
+            "ville_img": "http://www.brownbaglunch.fr/img/villes/BBL_Toulouse.jpg",
+            "lat": 43.604652,
+            "lng": 1.444209
         }
     ]
 }
