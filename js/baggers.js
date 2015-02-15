@@ -31,6 +31,31 @@ var data = {
             "cities": [
                 "Geylang"
             ]
+        },
+        {
+            "name": "Michael Isvy",
+            "bio": "In charge of APAC Education at Pivotal, co-founder of the Singapore Spring User Group",
+            "picture": "img/baggers/photo_michaelisvy.png",
+            "websites": [
+            ],
+            "twitter": "michaelisvy",
+            "contact": "contact@ericlefevre.net",
+            "mail": "misvy@pivotal.io",
+            "location": "Changi",
+            "sessions": [
+                {
+                    "title": "Web frameworks in Java: what happened in the past 10 years?",
+                    "summary": "How did we get from home-backed frameworks to Struts, JSF, Spring MVC and AngularJS? What is the future of Web development in Java?"
+                }
+            ],
+            "tags": [
+                "Java",
+                "Spring"
+            ],
+            "cities": [
+                "Changi",
+                "Geylang"
+            ]
         }
     ],
     "cities": [
@@ -38,6 +63,11 @@ var data = {
             "name": "Geylang",
             "lat": 1.319718,
             "lng": 103.891354
+        },
+        {
+            "name": "Changi",
+            "lat": 1.338167,
+            "lng": 103.967915
         }
     ]
 };
