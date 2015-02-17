@@ -68,7 +68,7 @@ function displayContactModalWindowMail() {
                 contentType: "application/x-www-form-urlencoded; charset=utf-8",
                 success: function(data) {
                     $('#mail-result').fadeIn();
-                    $('#mail-status').removeClass("alert").addClass("success").text("Message envoyé ");
+                    $('#mail-status').removeClass("alert").addClass("success").text("Email sent ");
                 },
                 error: function(xhr, status, errorThrown) {
                     $('#mail-result').fadeIn();
