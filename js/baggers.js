@@ -53,8 +53,7 @@ var data = {
                 "Spring"
             ],
             "cities": [
-                "Changi",
-                "Geylang"
+                "Changi"
             ]
         }
     ],
