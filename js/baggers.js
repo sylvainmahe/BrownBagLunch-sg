@@ -60,6 +60,33 @@ var data = {
             "cities": [
                 "Changi"
             ]
+        },
+        {
+            "name": "Sylvain Mahe",
+            "bio": "Agile and Lean Coach - Agile Coaches Team Lead",
+            "picture": "img/baggers/photo_sylvain_mahe.jpg",
+            "twitter": "mahe_sylvain",
+            "contact": "sylvain.mahe@gmail.com",
+            "mail": "sylvain.mahe@gmail.com",
+            "location": "Changi",
+            "sessions": [
+                {
+                    "title": "Introduction to Agile",
+                    "summary": "What is Agile? Which benefits can you expect from it? Let's discuss and explore the values, principles and key practices of Agile."
+                },
+                {
+                    "title": "Facilitation tools",
+                    "summary": "Meetings: where minutes are kept and hours lost. Sounds familiar? Unclear goals, lack of energy, misaligned participants, poor outcome (not to mention open laptops, participants dozing or texting their shopping list): this seems to be the reality for many teams in many organizations, where employees have to endure endless meetings days after days. Are meetings doomed to be boring? Wait! There is hope."
+                }
+            ],
+            "tags": [
+                "Agile",
+                "Coaching",
+                "Facilitation"
+            ],
+            "cities": [
+                "Changi"
+            ]
         }
     ],
     "cities": [
