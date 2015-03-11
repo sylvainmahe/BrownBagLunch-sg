@@ -22,11 +22,16 @@ var data = {
                 {
                     "title": "Extremist Programming",
                     "summary": "Yes, our job is a serious one. Software Craftmanship is, in the end, all about being professionals. Yes, progress does come from research scientific and from new and complex software and algorithms. Still, don't you ever dream of pushing the limits of your usual work environment? Explore? Go further? Have fun with code, to the point of it becoming nonsensical? In this session, we will introduce esoteric experiments, strange games and crazy ideas that will make you think. Think? Do we still have time for that?!"
+                    },
+                {
+                    "title": "Reduce boiler-plate code with Lombok",
+                    "summary": "Sick of writing setters and getters? toString()/equals()/hashCode() methods? Jealous of those new, less-verbose programming languages? Discover Lombok, a tool that will make your code easier, lighter and better looking!"
                 }
             ],
             "tags": [
                 "Java",
-                "Code"
+                "Code",
+                "Agile"
             ],
             "cities": [
                 "Geylang"
